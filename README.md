@@ -26,3 +26,11 @@
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"></a>
   </ul>
 </details>
+
+## 📁Archivos
+<p>
+- AdventuresProyectM3Informe.pdf = Archivo pdf con el informe detallado de cada avance realizado.
+- DA_viviant_nicole_informePIM3.pdf = Archivo pdf con el informe sobre el proyecto de Adventures Work Cycles donde explico los pasos que tome durante el procesamiento de los datos y dashboard.
+- ProyectoM3PowerBI.pbix = Archivo pbix que contiene el dashboard final en Power Bi con gráficos.
+- Imagenes = Carpeta donde guardo todas las imagenes usadas para la realización del dashboard.
+</p>
