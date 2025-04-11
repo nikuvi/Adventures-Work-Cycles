@@ -29,8 +29,8 @@
 
 ## 📁Archivos
 <p>
-- AdventuresProyectM3Informe.pdf = Archivo pdf con el informe detallado de cada avance realizado.
-- DA_viviant_nicole_informePIM3.pdf = Archivo pdf con el informe sobre el proyecto de Adventures Work Cycles donde explico los pasos que tome durante el procesamiento de los datos y dashboard.
-- ProyectoM3PowerBI.pbix = Archivo pbix que contiene el dashboard final en Power Bi con gráficos.
-- Imagenes = Carpeta donde guardo todas las imagenes usadas para la realización del dashboard.
+- **AdventuresProyectM3Informe.pdf**: Archivo pdf con el informe detallado de cada avance realizado.
+- **DA_viviant_nicole_informePIM3.pdf** Archivo pdf con el informe sobre el proyecto de Adventures Work Cycles donde explico los pasos que tome durante el procesamiento de los datos y dashboard.
+- **ProyectoM3PowerBI.pbix**: Archivo pbix que contiene el dashboard final en Power Bi con gráficos.
+- **Imagenes**: Carpeta donde guardo todas las imagenes usadas para la realización del dashboard.
 </p>
