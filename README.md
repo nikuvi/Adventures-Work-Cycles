@@ -7,6 +7,9 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
 
 > El objetivo principal del proyecto es optimizar la toma de decisiones estratégicas en "Adventures Work Cycles" mediante el análisis de datos sobre ventas, inventario, clientes y tendencias del mercado.
+![fondo-por](https://github.com/user-attachments/assets/ad359a9f-b24f-4cb1-8c49-9c0abc4a26d9)
+![Diseño sin título](https://github.com/user-attachments/assets/f9066526-f41d-4fab-8dc2-a5daa646b2f4)
+![Diseño sin título (1)](https://github.com/user-attachments/assets/6f5043a8-5db4-486d-93f5-1d70d8713bed)
 
 <!-- TechStack -->
 ## :space_invader: Herramientas
