@@ -2,9 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/nikuvi/Adventures-Work-Cycles?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/nikuvi/Adventures-Work-Cycles?style=for-the-badge)
 
 > El objetivo principal del proyecto es optimizar la toma de decisiones estratégicas en "Adventures Work Cycles" mediante el análisis de datos sobre ventas, inventario, clientes y tendencias del mercado.
 ![fondo-por](https://github.com/user-attachments/assets/ad359a9f-b24f-4cb1-8c49-9c0abc4a26d9)
